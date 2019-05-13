@@ -6,6 +6,8 @@ Add a folder with your results and a brief README file describing your findings.
 
 [Alex](https://github.com/COINtoolbox/StarCluster_AllSky/tree/master/Alex)  
 
+[Alfred](https://github.com/COINtoolbox/StarCluster_AllSky/tree/master/Alfred) 
+
 [Arya](https://github.com/COINtoolbox/StarCluster_AllSky/tree/master/Arya)  
 
 [Nima](https://github.com/COINtoolbox/StarCluster_AllSky/tree/master/Nima)  
