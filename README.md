@@ -10,6 +10,8 @@ Add a folder with your results and a brief README file describing your findings.
 
 [Arya](https://github.com/COINtoolbox/StarCluster_AllSky/tree/master/Arya)  
 
+[Michael](https://github.com/COINtoolbox/StarCluster_AllSky/tree/master/Michael)
+
 [Nima](https://github.com/COINtoolbox/StarCluster_AllSky/tree/master/Nima)  
 
 
