@@ -1,0 +1,3 @@
+a. Positional/5-D : 87/77%
+b. 789
+c. 665 with total proper motion dispersion computed as sqrt(sigpmra**2 + sigpmdec**2)
