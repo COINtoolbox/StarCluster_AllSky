@@ -39,10 +39,10 @@ The columns in the "clusters_Arya_submission.csv" are defined as following:
 
 The columns in the "members_Arya_submission.csv" are defined as following:
 
-ID = cluster candidate unique Id
-RA = RA of the candidate cluster members
-DEC =  DEC of the candidate cluster members
-PmRa = proper motions in RA for the candidate cluster members
-PmDec = proper motions in DEC for the candidate cluster members
-Plx = the candidate cluster members parallax
+- ID = cluster candidate unique Id
+- RA = RA of the candidate cluster members
+- DEC =  DEC of the candidate cluster members
+- PmRa = proper motions in RA for the candidate cluster members
+- PmDec = proper motions in DEC for the candidate cluster members
+- Plx = the candidate cluster members parallax
 
