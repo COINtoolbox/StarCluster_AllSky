@@ -35,6 +35,14 @@ The columns in the "clusters_Arya_submission.csv" are defined as following:
 - medianPlx    = median of the candidate cluster members parallax
 - madPlx       = mad of the candidate cluster members parallax
 - nObj         = number of candidate cluster members
-- possibleName = if the candidate cluster is a known cluster, the name of the known cluster
 
+
+The columns in the "members_Arya_submission.csv" are defined as following:
+
+ID = cluster candidate unique Id
+RA = RA of the candidate cluster members
+DEC =  DEC of the candidate cluster members
+PmRa = proper motions in RA for the candidate cluster members
+PmDec = proper motions in DEC for the candidate cluster members
+Plx = the candidate cluster members parallax
 
