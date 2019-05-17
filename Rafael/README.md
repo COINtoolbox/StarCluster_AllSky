@@ -10,3 +10,7 @@ I mostly focused in speed, instead of purity. So the list requires some extra pr
 - I remove any cluster with madPmRa and madPmDec > 0.175 and madPlx > 0.15
 
 
+### Catalog
+
+-  **rafael_fulll.cvs**: Entire output 
+-  **Rafael_short_madPlx_l_0.1.csv**: Shorter version cutting madPlx > 0.1.
